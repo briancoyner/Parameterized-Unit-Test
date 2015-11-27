@@ -1,0 +1,30 @@
+.DS_Store
+profile
+.svn
+_bamboo_build
+
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+
+# Xcode 5
+xcuserdata
+project.xcworkspace/
+*.xccheckout
+
+# automatic backup files
+*~.nib
+*.swp
+
+# Xcode 7
+ObjectiveC.gcno
+
+# AppCode
+.idea/*
+!.idea/codeStyleSettings.xml
+atlassian-ide-plugin.xml
+
+Scripts/.idea/*
